@@ -2,7 +2,7 @@
 In this data I performed detailed exploration. I found correlations and trends, then make comments about them. All the details are explained.
 
 
-##Important Note
+## Important Note
 
 	Column							Description
 work_year...............................The year the salary was paid.
@@ -19,14 +19,21 @@ remote_ratio............................The overall amount of work done remotely
 company_location........................The country of the employer's main office or contracting branch as an ISO 3166 country code.
 company_size............................The average number of people that worked for the company during the year: S less than 50 employees 
 					(small) M 50 to 250 employees (medium) L more than 250 employees (large)
-##Requirements:
-•Pandas
-•Matplotlib
-•Seaborn
 
-##Dataset
+
+## Requirements:
+
+-Pandas
+-Matplotlib
+-Seaborn
+
+
+
+## Dataset
+
 Dataset consist of attributes of engineers and scientist and their salaries. 
 
 
-##Citation
+## Citation
+
 Dataset is taken from Kaggle website.
