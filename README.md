@@ -19,6 +19,8 @@ In this data I performed detailed exploration. I found correlations and trends, 
 |remote_ratio|	The overall amount of work done remotely, possible values are as follows: 0 No remote work (less than 20%) 50 Partially remote 100 Fully remote (more than 80%)|
 |company_location	|The country of the employer's main office or contracting branch as an ISO 3166 country code.|
 |company_size|	The average number of people that worked for the company during the year: S less than 50 employees (small) M 50 to 250 employees (medium) L more than 250 employees (large)|
+
+
 <br/><br/>
 
 ### Requirements:
