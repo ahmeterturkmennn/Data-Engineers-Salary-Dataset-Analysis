@@ -23,9 +23,9 @@ company_size............................The average number of people that worked
 
 ## Requirements:
 
--Pandas
--Matplotlib
--Seaborn
+- Pandas
+- Matplotlib
+- Seaborn
 
 
 
