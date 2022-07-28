@@ -1,10 +1,10 @@
-# Data-Engineers-Salary-Dataset-Analysis
+# Data Engineers Salary Dataset Analysis
 In this data I performed detailed exploration. I found correlations and trends, then make comments about them. All the details are explained.
 
 
+##Important Note
 
-
-Column							Description
+	Column							Description
 work_year...............................The year the salary was paid.
 experience_level........................The experience level in the job during the year with the following possible values: 
 					EN Entry-level / Junior MI Mid-level / Intermediate SE Senior-level / Expert EX Executive-level / Director
@@ -19,4 +19,14 @@ remote_ratio............................The overall amount of work done remotely
 company_location........................The country of the employer's main office or contracting branch as an ISO 3166 country code.
 company_size............................The average number of people that worked for the company during the year: S less than 50 employees 
 					(small) M 50 to 250 employees (medium) L more than 250 employees (large)
-This is where data science projects reside
+##Requirements:
+•Pandas
+•Matplotlib
+•Seaborn
+
+##Dataset
+Dataset consist of attributes of engineers and scientist and their salaries. 
+
+
+##Citation
+Dataset is taken from Kaggle website.
